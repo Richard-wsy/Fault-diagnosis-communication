@@ -176,8 +176,6 @@
 
   * 会出现网页
 
-    ![](G:\Python_work\Fault-diagnosis-communication\Django_web开发\img\12.png)
-
   * 将其中的路由拼接复制到浏览器网址输入框中`http://localhost:8000/home/`
 
 
